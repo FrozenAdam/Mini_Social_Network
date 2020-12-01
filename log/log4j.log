@@ -1,0 +1,246 @@
+ERROR   2020-09-29 13:36:58,272 [http-nio-8080-exec-20] system.controller.MainController  - Error at DetailsController: The value is not set for the parameter number 2.
+ERROR   2020-09-29 13:37:00,733 [http-nio-8080-exec-28] system.controller.MainController  - Error at DetailsController: The value is not set for the parameter number 2.
+ERROR   2020-09-29 13:40:12,191 [http-nio-8080-exec-48] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 2.
+ERROR   2020-09-29 13:46:47,390 [http-nio-8080-exec-14] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 2.
+ERROR   2020-09-29 13:46:55,429 [http-nio-8080-exec-17] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 2.
+ERROR   2020-09-29 13:56:31,206 [http-nio-8080-exec-54] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 2.
+ERROR   2020-09-29 13:56:35,124 [http-nio-8080-exec-45] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 2.
+ERROR   2020-09-29 17:42:53,579 [http-nio-8080-exec-270] system.controller.LoginController  - Error at LoginController: java.lang.NullPointerException
+ERROR   2020-09-29 17:54:26,652 [http-nio-8080-exec-311] system.controller.EmoteController  - Error at EmoteController: The index 5 is out of range.
+ERROR   2020-09-29 17:55:54,282 [http-nio-8080-exec-332] system.controller.EmoteController  - Error at EmoteController: The index 5 is out of range.
+ERROR   2020-09-29 17:56:55,345 [http-nio-8080-exec-324] system.controller.EmoteController  - Error at EmoteController: The index 5 is out of range.
+ERROR   2020-09-29 17:57:38,725 [http-nio-8080-exec-349] system.controller.EmoteController  - Error at EmoteController: Incorrect syntax near the keyword 'like'.
+ERROR   2020-09-29 17:58:07,024 [http-nio-8080-exec-341] system.controller.EmoteController  - Error at EmoteController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 17:58:08,340 [http-nio-8080-exec-354] system.controller.EmoteController  - Error at EmoteController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:00:50,980 [http-nio-8080-exec-363] system.controller.EmoteController  - Error at EmoteController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:02:06,966 [http-nio-8080-exec-373] system.controller.EmoteController  - Error at EmoteController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:02:20,673 [http-nio-8080-exec-378] system.controller.EmoteController  - Error at EmoteController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:03:02,902 [http-nio-8080-exec-370] system.controller.EmoteController  - Error at EmoteController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:05:56,034 [http-nio-8080-exec-396] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:05:58,375 [http-nio-8080-exec-387] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:05:59,551 [http-nio-8080-exec-391] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:06:07,408 [http-nio-8080-exec-382] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:06:10,329 [http-nio-8080-exec-398] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:06:14,216 [http-nio-8080-exec-387] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:06:20,781 [http-nio-8080-exec-401] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:06:21,895 [http-nio-8080-exec-397] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:07:08,597 [http-nio-8080-exec-404] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:07:12,066 [http-nio-8080-exec-406] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:07:12,900 [http-nio-8080-exec-399] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:07:13,209 [http-nio-8080-exec-405] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:07:13,355 [http-nio-8080-exec-398] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:07:13,601 [http-nio-8080-exec-400] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:07:13,758 [http-nio-8080-exec-397] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:07:13,920 [http-nio-8080-exec-401] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:07:14,069 [http-nio-8080-exec-403] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:07:14,236 [http-nio-8080-exec-402] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:07:14,493 [http-nio-8080-exec-404] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:07:14,640 [http-nio-8080-exec-406] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:07:14,804 [http-nio-8080-exec-399] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:07:14,947 [http-nio-8080-exec-405] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:10:28,364 [http-nio-8080-exec-413] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:10:31,365 [http-nio-8080-exec-397] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:21:32,332 [http-nio-8080-exec-442] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:22:10,143 [http-nio-8080-exec-449] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 18:33:25,513 [http-nio-8080-exec-460] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:08:48,398 [http-nio-8080-exec-497] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:08:50,628 [http-nio-8080-exec-490] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:09:13,282 [http-nio-8080-exec-497] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:11:15,597 [http-nio-8080-exec-498] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:11:18,220 [http-nio-8080-exec-504] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:19:07,074 [http-nio-8080-exec-514] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:19:13,053 [http-nio-8080-exec-520] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:20:32,965 [http-nio-8080-exec-532] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:20:38,763 [http-nio-8080-exec-524] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:21:01,586 [http-nio-8080-exec-534] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:21:06,569 [http-nio-8080-exec-537] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:24:03,692 [http-nio-8080-exec-545] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:24:28,229 [http-nio-8080-exec-551] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:24:30,565 [http-nio-8080-exec-554] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:24:32,861 [http-nio-8080-exec-557] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:24:33,676 [http-nio-8080-exec-549] system.controller.MainController  - Error at MainController: null
+ERROR   2020-09-29 19:24:33,677 [http-nio-8080-exec-549] system.controller.LoginController  - Error at LoginController: java.lang.NullPointerException
+ERROR   2020-09-29 19:25:02,827 [http-nio-8080-exec-555] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:25:03,333 [http-nio-8080-exec-559] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:25:03,669 [http-nio-8080-exec-556] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:25:06,234 [http-nio-8080-exec-554] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:32:58,485 [http-nio-8080-exec-564] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:01,398 [http-nio-8080-exec-559] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:02,506 [http-nio-8080-exec-561] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:02,785 [http-nio-8080-exec-566] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:02,945 [http-nio-8080-exec-568] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:03,129 [http-nio-8080-exec-569] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:03,241 [http-nio-8080-exec-563] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:03,386 [http-nio-8080-exec-560] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:03,537 [http-nio-8080-exec-570] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:03,682 [http-nio-8080-exec-567] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:03,823 [http-nio-8080-exec-571] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:03,954 [http-nio-8080-exec-559] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:04,082 [http-nio-8080-exec-572] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:04,211 [http-nio-8080-exec-566] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:04,358 [http-nio-8080-exec-568] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:33:04,506 [http-nio-8080-exec-569] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:34:30,631 [http-nio-8080-exec-576] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:34:34,144 [http-nio-8080-exec-573] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:34:35,292 [http-nio-8080-exec-575] system.controller.DetailsController  - Error at DetailsController: The value is not set for the parameter number 1.
+ERROR   2020-09-29 19:35:24,138 [http-nio-8080-exec-586] system.controller.DetailsController  - Error at DetailsController: Incorrect syntax near the keyword 'like'.
+ERROR   2020-09-29 19:36:25,261 [http-nio-8080-exec-589] system.controller.DetailsController  - Error at DetailsController: Incorrect syntax near the keyword 'like'.
+ERROR   2020-09-29 19:36:28,925 [http-nio-8080-exec-586] system.controller.DetailsController  - Error at DetailsController: Incorrect syntax near the keyword 'like'.
+ERROR   2020-09-29 19:37:38,017 [http-nio-8080-exec-608] system.controller.MainController  - Error at MainController: null
+ERROR   2020-09-29 19:37:38,018 [http-nio-8080-exec-608] system.controller.LoginController  - Error at LoginController: java.lang.NullPointerException
+ERROR   2020-09-29 21:08:32,166 [http-nio-8080-exec-808] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:08:42,399 [http-nio-8080-exec-788] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:08:43,217 [http-nio-8080-exec-800] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:08:43,559 [http-nio-8080-exec-802] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:08:43,744 [http-nio-8080-exec-806] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:08:43,910 [http-nio-8080-exec-785] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:08:44,083 [http-nio-8080-exec-809] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:08:44,242 [http-nio-8080-exec-787] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:08:44,776 [http-nio-8080-exec-810] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:08:49,470 [http-nio-8080-exec-785] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:08:51,643 [http-nio-8080-exec-809] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:08:53,012 [http-nio-8080-exec-787] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:08:53,959 [http-nio-8080-exec-810] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:08:54,748 [http-nio-8080-exec-807] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:10:01,092 [http-nio-8080-exec-811] system.controller.EmoteController  - Error at EmoteController: The column name date is not valid.
+ERROR   2020-09-29 21:10:28,800 [http-nio-8080-exec-822] system.controller.EmoteController  - Error at EmoteController: The column name [like] is not valid.
+ERROR   2020-09-29 21:10:29,797 [http-nio-8080-exec-821] system.controller.EmoteController  - Error at EmoteController: The column name [like] is not valid.
+ERROR   2020-09-29 21:10:30,156 [http-nio-8080-exec-820] system.controller.EmoteController  - Error at EmoteController: The column name [like] is not valid.
+ERROR   2020-09-29 21:10:30,300 [http-nio-8080-exec-824] system.controller.EmoteController  - Error at EmoteController: The column name [like] is not valid.
+ERROR   2020-09-29 21:10:32,927 [http-nio-8080-exec-808] system.controller.EmoteController  - Error at EmoteController: The column name [like] is not valid.
+ERROR   2020-09-29 21:10:33,723 [http-nio-8080-exec-818] system.controller.EmoteController  - Error at EmoteController: The column name [like] is not valid.
+ERROR   2020-09-29 21:11:12,746 [http-nio-8080-exec-832] system.controller.EmoteController  - Error at EmoteController: The column name [date] is not valid.
+ERROR   2020-09-29 21:11:14,119 [http-nio-8080-exec-813] system.controller.EmoteController  - Error at EmoteController: The column name [date] is not valid.
+ERROR   2020-09-29 21:11:14,476 [http-nio-8080-exec-827] system.controller.EmoteController  - Error at EmoteController: The column name [date] is not valid.
+ERROR   2020-09-29 21:11:14,632 [http-nio-8080-exec-808] system.controller.EmoteController  - Error at EmoteController: The column name [date] is not valid.
+ERROR   2020-09-29 21:11:14,788 [http-nio-8080-exec-828] system.controller.EmoteController  - Error at EmoteController: The column name [date] is not valid.
+ERROR   2020-09-29 21:11:14,956 [http-nio-8080-exec-821] system.controller.EmoteController  - Error at EmoteController: The column name [date] is not valid.
+ERROR   2020-09-29 21:11:15,106 [http-nio-8080-exec-829] system.controller.EmoteController  - Error at EmoteController: The column name [date] is not valid.
+ERROR   2020-09-29 21:11:15,254 [http-nio-8080-exec-831] system.controller.EmoteController  - Error at EmoteController: The column name [date] is not valid.
+ERROR   2020-09-29 21:11:15,418 [http-nio-8080-exec-833] system.controller.EmoteController  - Error at EmoteController: The column name [date] is not valid.
+ERROR   2020-09-29 21:11:15,789 [http-nio-8080-exec-834] system.controller.EmoteController  - Error at EmoteController: The column name [date] is not valid.
+ERROR   2020-09-29 21:11:15,940 [http-nio-8080-exec-835] system.controller.EmoteController  - Error at EmoteController: The column name [date] is not valid.
+ERROR   2020-09-29 21:11:16,089 [http-nio-8080-exec-836] system.controller.EmoteController  - Error at EmoteController: The column name [date] is not valid.
+ERROR   2020-09-29 22:20:08,355 [http-nio-8080-exec-1155] system.controller.EmoteController  - Error at EmoteController: The INSERT statement conflicted with the FOREIGN KEY constraint "FK__tblEmote__postID__19DFD96B". The conflict occurred in database "Mini_Social_Networking", table "dbo.Article", column 'articleID'.
+ERROR   2020-09-29 22:20:09,066 [http-nio-8080-exec-1149] system.controller.EmoteController  - Error at EmoteController: The INSERT statement conflicted with the FOREIGN KEY constraint "FK__tblEmote__postID__19DFD96B". The conflict occurred in database "Mini_Social_Networking", table "dbo.Article", column 'articleID'.
+ERROR   2020-09-30 13:28:43,017 [http-nio-8080-exec-11] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 13:28:58,111 [http-nio-8080-exec-6] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 13:29:02,709 [http-nio-8080-exec-17] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 13:29:04,727 [http-nio-8080-exec-11] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 13:29:05,100 [http-nio-8080-exec-18] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 13:29:05,232 [http-nio-8080-exec-13] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 13:29:05,361 [http-nio-8080-exec-12] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 13:29:05,728 [http-nio-8080-exec-14] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 13:29:05,863 [http-nio-8080-exec-15] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 13:29:05,999 [http-nio-8080-exec-19] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 16:01:15,512 [http-nio-8080-exec-174] system.controller.EmoteController  - Error at EmoteController: Invalid object name 'Notification'.
+ERROR   2020-09-30 16:02:29,370 [http-nio-8080-exec-183] system.controller.EmoteController  - Error at EmoteController: Invalid object name 'Notification'.
+ERROR   2020-09-30 16:03:51,631 [http-nio-8080-exec-189] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (4).
+ERROR   2020-09-30 16:03:55,944 [http-nio-8080-exec-191] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (4).
+ERROR   2020-09-30 17:04:05,433 [http-nio-8080-exec-309] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:04:09,000 [http-nio-8080-exec-305] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:04:09,661 [http-nio-8080-exec-306] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:04:10,015 [http-nio-8080-exec-308] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:04:10,185 [http-nio-8080-exec-310] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:04:10,340 [http-nio-8080-exec-312] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:04:14,667 [http-nio-8080-exec-314] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:05:38,398 [http-nio-8080-exec-317] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:11:56,490 [http-nio-8080-exec-338] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:11:56,980 [http-nio-8080-exec-322] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:11:57,131 [http-nio-8080-exec-324] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:11:57,274 [http-nio-8080-exec-333] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:03,408 [http-nio-8080-exec-339] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:03,782 [http-nio-8080-exec-324] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:03,929 [http-nio-8080-exec-327] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:04,068 [http-nio-8080-exec-330] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:10,468 [http-nio-8080-exec-339] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:10,892 [http-nio-8080-exec-324] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:11,027 [http-nio-8080-exec-333] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:11,184 [http-nio-8080-exec-335] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:11,342 [http-nio-8080-exec-342] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:11,492 [http-nio-8080-exec-327] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:11,644 [http-nio-8080-exec-341] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:11,795 [http-nio-8080-exec-340] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:11,953 [http-nio-8080-exec-322] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:12,097 [http-nio-8080-exec-330] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:12,240 [http-nio-8080-exec-343] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:12,387 [http-nio-8080-exec-324] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:12,537 [http-nio-8080-exec-333] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:12,684 [http-nio-8080-exec-335] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:12,830 [http-nio-8080-exec-342] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:12:12,981 [http-nio-8080-exec-327] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 17:23:43,993 [http-nio-8080-exec-394] system.controller.LoginController  - Error at LoginController: java.lang.NullPointerException
+ERROR   2020-09-30 18:35:18,640 [http-nio-8080-exec-546] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 18:35:28,353 [http-nio-8080-exec-555] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 18:35:29,275 [http-nio-8080-exec-560] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 18:35:29,593 [http-nio-8080-exec-561] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 18:35:29,762 [http-nio-8080-exec-556] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 18:35:29,928 [http-nio-8080-exec-557] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 18:35:30,078 [http-nio-8080-exec-562] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 18:35:30,234 [http-nio-8080-exec-563] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 18:35:30,368 [http-nio-8080-exec-558] system.controller.EmoteController  - Error at EmoteController: Violation of PRIMARY KEY constraint 'PK__tblEmote__3214EC278ADED941'. Cannot insert duplicate key in object 'dbo.tblEmote'. The duplicate key value is (3).
+ERROR   2020-09-30 19:06:25,590 [http-nio-8080-exec-569] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 19:06:30,634 [http-nio-8080-exec-579] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 19:06:31,131 [http-nio-8080-exec-572] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 19:06:31,323 [http-nio-8080-exec-573] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 19:06:31,484 [http-nio-8080-exec-574] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 19:14:53,823 [http-nio-8080-exec-591] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 19:49:09,384 [http-nio-8080-exec-688] system.controller.SearchArticleController  - Error at SearchArticleController: The multi-part identifier "Notification.ID" could not be bound.
+ERROR   2020-09-30 19:49:15,789 [http-nio-8080-exec-691] system.controller.SearchArticleController  - Error at SearchArticleController: The multi-part identifier "Notification.ID" could not be bound.
+ERROR   2020-09-30 19:49:16,187 [http-nio-8080-exec-682] system.controller.SearchArticleController  - Error at SearchArticleController: The multi-part identifier "Notification.ID" could not be bound.
+ERROR   2020-09-30 19:49:16,511 [http-nio-8080-exec-642] system.controller.SearchArticleController  - Error at SearchArticleController: The multi-part identifier "Notification.ID" could not be bound.
+ERROR   2020-09-30 19:49:40,808 [http-nio-8080-exec-692] system.controller.SearchArticleController  - Error at SearchArticleController: The multi-part identifier "Notification.ID" could not be bound.
+ERROR   2020-09-30 19:49:42,966 [http-nio-8080-exec-698] system.controller.SearchArticleController  - Error at SearchArticleController: The multi-part identifier "Notification.ID" could not be bound.
+ERROR   2020-09-30 19:49:43,948 [http-nio-8080-exec-699] system.controller.SearchArticleController  - Error at SearchArticleController: The multi-part identifier "Notification.ID" could not be bound.
+ERROR   2020-09-30 19:50:04,199 [http-nio-8080-exec-692] system.controller.SearchArticleController  - Error at SearchArticleController: The multi-part identifier "Notification.ID" could not be bound.
+ERROR   2020-09-30 19:51:21,078 [http-nio-8080-exec-714] system.controller.LoginController  - Error at LoginController: java.lang.NullPointerException
+ERROR   2020-09-30 19:53:18,729 [http-nio-8080-exec-718] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: null
+ERROR   2020-09-30 19:53:27,964 [http-nio-8080-exec-713] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: null
+ERROR   2020-09-30 19:54:06,710 [http-nio-8080-exec-731] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: null
+ERROR   2020-09-30 19:54:08,508 [http-nio-8080-exec-733] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: null
+ERROR   2020-09-30 19:54:09,188 [http-nio-8080-exec-713] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: null
+ERROR   2020-09-30 19:54:09,648 [http-nio-8080-exec-734] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: null
+ERROR   2020-09-30 19:54:46,581 [http-nio-8080-exec-742] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: null
+ERROR   2020-09-30 19:54:47,518 [http-nio-8080-exec-736] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: null
+ERROR   2020-09-30 19:55:21,791 [http-nio-8080-exec-745] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: For input string: ""
+ERROR   2020-09-30 19:55:23,421 [http-nio-8080-exec-740] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: For input string: ""
+ERROR   2020-09-30 19:55:23,644 [http-nio-8080-exec-743] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: For input string: ""
+ERROR   2020-09-30 19:55:23,825 [http-nio-8080-exec-747] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: For input string: ""
+ERROR   2020-09-30 19:55:23,988 [http-nio-8080-exec-734] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: For input string: ""
+ERROR   2020-09-30 19:55:24,137 [http-nio-8080-exec-746] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: For input string: ""
+ERROR   2020-09-30 19:55:24,297 [http-nio-8080-exec-748] system.controller.DeleteNotificationController  - Error at DeleteNotificationController: java.lang.NumberFormatException: For input string: ""
+ERROR   2020-09-30 20:16:25,500 [http-nio-8080-exec-795] system.controller.DetailsController  - Error at DetailsController: null
+ERROR   2020-09-30 20:18:03,979 [http-nio-8080-exec-827] system.controller.DetailsController  - Error at DetailsController: null
+ERROR   2020-09-30 20:19:17,055 [http-nio-8080-exec-837] system.controller.DetailsController  - Error at DetailsController: null
+ERROR   2020-09-30 20:19:22,465 [http-nio-8080-exec-841] system.controller.DetailsController  - Error at DetailsController: null
+ERROR   2020-09-30 20:37:57,764 [http-nio-8080-exec-877] system.controller.DetailsController  - Error at DetailsController: null
+ERROR   2020-09-30 20:39:00,401 [http-nio-8080-exec-887] system.controller.DetailsController  - Error at DetailsController: null
+ERROR   2020-09-30 20:39:30,267 [http-nio-8080-exec-878] system.controller.DetailsController  - Error at DetailsController: null
+ERROR   2020-09-30 21:39:44,283 [http-nio-8080-exec-969] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 21:39:49,443 [http-nio-8080-exec-983] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 21:39:58,880 [http-nio-8080-exec-991] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 21:40:04,348 [http-nio-8080-exec-992] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 21:40:05,238 [http-nio-8080-exec-989] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 21:40:05,550 [http-nio-8080-exec-970] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 21:40:05,699 [http-nio-8080-exec-986] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 21:40:05,856 [http-nio-8080-exec-987] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 21:41:08,209 [http-nio-8080-exec-999] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 21:41:26,404 [http-nio-8080-exec-1003] system.controller.SearchArticleController  - Error at SearchArticleController: null
+ERROR   2020-09-30 21:42:42,795 [http-nio-8080-exec-1020] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:42:49,515 [http-nio-8080-exec-1021] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:42:50,048 [http-nio-8080-exec-1022] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:42:50,195 [http-nio-8080-exec-1020] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:42:59,759 [http-nio-8080-exec-1018] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:43:16,344 [http-nio-8080-exec-1023] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:43:27,641 [http-nio-8080-exec-1026] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:43:43,060 [http-nio-8080-exec-1027] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:44:38,258 [http-nio-8080-exec-1024] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:44:47,248 [http-nio-8080-exec-1026] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:44:52,475 [http-nio-8080-exec-1029] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:45:03,226 [http-nio-8080-exec-1024] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:45:05,574 [http-nio-8080-exec-1027] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:45:13,773 [http-nio-8080-exec-1021] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:45:15,441 [http-nio-8080-exec-1029] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:45:16,043 [http-nio-8080-exec-1023] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 21:45:16,471 [http-nio-8080-exec-1022] system.controller.SearchArticleController  - Error at SearchArticleController: Uncompilable source code - Erroneous tree type: <any>
+ERROR   2020-09-30 22:55:29,906 [http-nio-8080-exec-4] system.controller.LoginController  - Error at LoginController: The value is not set for the parameter number 3.
